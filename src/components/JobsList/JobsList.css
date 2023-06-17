@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Spartan:wght@100&display=swap");
+.container {
+  padding-bottom: 70px;
+}
+main {
+  background-color: #f0fafb;
+  min-height: 100vh;
+}
+
+header {
+  width: 100vw;
+  height: 150px;
+  background-color: #5da5a4;
+}
+header img {
+  height: 100%;
+  width: 100%;
+  -o-object-fit: cover;
+  object-fit: cover;
+}
+img {
+  height: 130px;
+}
